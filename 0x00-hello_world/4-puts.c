@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * this program use the funtion puts
- * it will work sucssfully
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */ 
 int main(void)
 {
