@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <unistd.h>
-
 /**
  * main - a c program that prints a line to the standard error
  * Return: 1 (the program will be successful)
