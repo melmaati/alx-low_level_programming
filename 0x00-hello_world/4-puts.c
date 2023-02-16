@@ -3,7 +3,7 @@
  * this program use the funtion puts
  * it will work sucssfully
  */ 
-int main()
+int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
 	
