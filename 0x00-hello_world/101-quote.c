@@ -2,8 +2,8 @@
 #include <unistd.h>
 
 /**
- * last task
- * return (1)
+ * main - a c program that prints a line to the standard error
+ * Return: 1 (the program will be successful)
  */
 int main(void)
 {
